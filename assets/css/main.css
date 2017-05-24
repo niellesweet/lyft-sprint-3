@@ -156,8 +156,8 @@ ul img {
 	margin: 10px;
 }
 .cordinates button{
-	margin-top: 15px;
-	margin-left: 45px;
+	margin: 15px 93px 45px 92px;
+	width: 700px;
 	padding: 10px 30px 10px 30px;
 	border-radius: 15px;
 	background-color: #E56385;
